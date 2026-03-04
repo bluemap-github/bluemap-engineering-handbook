@@ -81,3 +81,11 @@ Example:
 - Updated GDAL to vX.X
 
 ---
+
+### Full Changelog
+Link to commit history or detailed change list.
+
+Example:
+https://github.com/your-repo/your-project/compare/vX.X.X...vX.X.X
+
+---
